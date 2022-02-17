@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
-* Студент: [Anna Gravillon](https://up.htmlacademy.ru/javascript/25/user/1473713).
-* Наставник: `Неизвестно`.
+- Студент: [Anna Gravillon](https://up.htmlacademy.ru/javascript/25/user/1473713).
+- Наставник: [Дмитрий Полуэктов](https://htmlacademy.ru/profile/id1283179)
 
 ---
 
