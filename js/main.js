@@ -15,4 +15,4 @@ function checkCommentLength(string, length) {
 
 const comment = document.querySelector('.social__footer-text');
 
-checkCommentLength(comment, 140);
+checkCommentLength(comment.value, 140);
